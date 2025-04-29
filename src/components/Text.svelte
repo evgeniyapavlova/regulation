@@ -143,7 +143,7 @@
 		jurisdiction where such distribution or use would be contrary to local law or regulation.
 	</p>
 
-	<h2>Social media links:</h2>
+	<!-- <h2>Social media links:</h2> -->
 </div>
 
 <style>
